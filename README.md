@@ -77,11 +77,11 @@ It was developed as part of a group project for the *Engineering Methods for Sof
 2. **Set up the database:**
 - Import the provided SQL file into your MySQL server (bitemedb.sql).
 
-3.**Run the server application:**
+3. **Run the server application:**
 
 - Start the server to handle requests and manage data.
 
-4.**Launch the client application:**
+4. **Launch the client application:**
 
 - Interact with the system through its intuitive JavaFX GUI.
 
